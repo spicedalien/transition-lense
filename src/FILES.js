@@ -10,5 +10,5 @@ export const files = [
     'your-afab-does-not-erase-me', 
     'domestication',
     'son-of-a-bitch',
-    'prometheous'
+    'prometheus'
 ]
