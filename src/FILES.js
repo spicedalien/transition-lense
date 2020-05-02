@@ -7,5 +7,8 @@ export const files = [
     'sometimes-waving-but-mostly-drowning',
     'transactivist',
     'trans-etiquette-for-beginners',
-    'your-afab-does-not-erase-me'
+    'your-afab-does-not-erase-me', 
+    'domestication',
+    'son-of-a-bitch',
+    'prometheous'
 ]
